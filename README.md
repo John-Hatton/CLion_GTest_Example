@@ -1,3 +1,10 @@
+
+
+
+![Alt Text](assets/images/CLIon_GTest.png)
+
+
+
 CLion Google Test Example
 =========================
 
